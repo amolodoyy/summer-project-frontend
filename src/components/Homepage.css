@@ -1,0 +1,25 @@
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.list{
+    border-top: 1px solid rgb(41, 85, 187);
+    border-bottom: 1px solid rgb(41, 85, 187);
+}
+.file{
+    margin: 0;
+    margin-right: -60%;
+    
+    transform: translate(-50%, -50%)
+   
+}
+.listComment{
+    border-top: 1px solid rgb(219, 190, 62);
+    border-bottom: 1px solid rgb(219, 190, 62);
+}
+.Activity{
+    color: rgba(0,0,0,0.6);
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                     0px -5px 35px rgba(27, 25, 25, 0.3);
+}

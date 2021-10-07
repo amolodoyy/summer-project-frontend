@@ -1,0 +1,16 @@
+.Avatar{
+    background-color: white;
+    align-items: center;
+    display: flex;
+    margin-bottom: 1px;
+}
+.treeitem{
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    font-feature-settings: 'tnum', "tnum";
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 12px;
+    display: flex;
+    margin-left: 56px;
+}

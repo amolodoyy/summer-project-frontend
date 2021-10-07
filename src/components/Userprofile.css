@@ -1,0 +1,72 @@
+.bg-container{
+    background-image: url('https://mir-oboev.ua/image/cache/catalog/oboi/36899-4-540x540.jpg');
+}
+
+.text-white {
+    color: #fff !important;
+}
+.ui-bg-overlay-container, .ui-bg-video-container {
+    position: relative;
+}
+.ui-bg-cover {
+    background-color: transparent;
+    background-position: center center;
+    background-size: cover;
+}
+.ui-bg-overlay-container .ui-bg-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+}
+
+.bg-dark {
+    background-color: rgba(24,28,33,0.9) !important;
+}
+.opacity-50 {
+    opacity: .5 !important;
+}
+.bg-dark {
+    background-color: rgba(24,28,33,0.9) !important;
+}
+.ui-bg-overlay-container>*, .ui-bg-video-container>* {
+    position: relative;
+}
+
+.Editbutton{
+    background-image: url('https://mir-oboev.ua/image/cache/catalog/oboi/36899-4-540x540.jpg');
+    
+}
+
+.avatar-uploader > .ant-upload {
+    width: 148px;
+    height: 168px;
+  }
+
+  .ant-input-borderless{
+   text-align: center;
+   font-size: 1em;
+   
+   
+   
+  }
+
+.card:hover{
+    color: #666; 
+    border: 1px solid #ccc;
+    background-color: lightcyan;; 
+    -webkit-box-shadow: 0px 0px 5px 5px rgba(155, 205, 243, 0.38);
+    -moz-box-shadow: 0px 0px 5px 5px rgba(155, 205, 243, 0.38);
+    box-shadow: 0px 0px 5px 5px rgba(155, 205, 243, 0.38);
+    transition: 0.4s;
+  
+}
+
+.Activity{
+
+    color: rgba(0,0,0,0.6);
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                     0px -5px 35px rgba(27, 25, 25, 0.3);
+}
